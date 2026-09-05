@@ -9,8 +9,8 @@ function draw() {
     fill(0);
     strokeWeight(10);
     circle(50, 100, 100);
-    rect(205, 50, , 180);
-    triangle(210, 300, 390, 300, 300, 100);
+    rect(205, 50, 90, 90);
+    triangle(105, 300, 390, 300, 300, 100);
 }
 
 

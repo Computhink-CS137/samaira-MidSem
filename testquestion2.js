@@ -6,7 +6,7 @@ function setup() {
 function draw() {
     for( let i = 0; i < 10; i++) {
         noStroke();
-        fill(0 + i * 25)
+        fill(0 + i * 30)
         circle(30 + i * 60, 30 + i * 60, 50)
     }
 }

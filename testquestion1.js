@@ -4,7 +4,8 @@ function setup() {
 }
 
 function draw() {
-    stroke(255,)
+    stroke(255, 0, 0);
+    
     cricle(100, 200, 200);
     rect(410, 100, 180, 180);
     triangle(210, 300, 390, 300, 300, 100);

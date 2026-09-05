@@ -1,5 +1,5 @@
 function setup() {
-    new Canvas(600, 800);
+    new Canvas(600, 400);
     background(220);
     strokeWieght(10);
     circle(50, 50, 50);   

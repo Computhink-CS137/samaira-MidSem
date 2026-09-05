@@ -5,7 +5,7 @@ function setup() {
 
 function draw() {
     cricle()
-    Rect()
+    rect()
     triangle(210, y1, 390, y2, x3, y3)
 }
 

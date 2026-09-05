@@ -6,7 +6,7 @@ function setup() {
 function draw() {
     cricle()
     Rect()
-    triangle(210, y1, 3, y2, x3, y3)
+    triangle(210, y1, 390, y2, x3, y3)
 }
 
 // for( let i = 0, i < 10, i++) {

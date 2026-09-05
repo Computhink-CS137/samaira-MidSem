@@ -5,7 +5,8 @@ function setup() {
 
 function draw() {
     cricle()
-    Rect
+    Rect()
+    
 }
 
 // for( let i = 0, i < 10, i++) {
